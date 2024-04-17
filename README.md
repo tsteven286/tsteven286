@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tsteven286
-- 👀 I’m interested in Racing, Esports, Motorsport and Computers.
-- 🌱 I’m currently learning Azure Fundementals and Microsoft 365 Identity and Services. 
-- 💞️ I’m looking to collaborate on Networking and Infrastructure.
+- 👀 I’m interested in racing, eSports, motorsports, and computers.
+- 🌱 I’m currently learning Azure Fundamentals and Microsoft Azure Administrator. 
+- 💞️ I’m looking to collaborate on networking and infrastructure.
 - 📫 How to reach me terblanche44@outlook.com.
 
 <!---

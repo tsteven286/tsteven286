@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsteven286
 - 👀 I’m interested in racing, eSports, motorsports, and computers.
-- 🌱 I’m currently learning Microsoft Azure Administrator. 
+- 🌱 I’m currently learning Microsoft Azure administration.
 - 💞️ I’m looking to collaborate on networking and infrastructure.
 - 📫 How to reach me terblanche44@outlook.com.
 

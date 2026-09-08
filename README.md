@@ -2,7 +2,7 @@
 - 👀 I’m interested in racing, eSports, motorsports, and computers.
 - 🌱 I’m currently learning Microsoft Azure administration.
 - 💞️ I’m looking to collaborate on networking and infrastructure.
-- 📫 How to reach me terblanche44@outlook.com.
+- 📫 You can reach me at terblanche44@outlook.com.
 
 <!---
 tsteven286/tsteven286 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
